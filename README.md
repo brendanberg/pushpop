@@ -1,2 +1,3 @@
 # six
-A stack language for a tiny computer
+
+Pushpop is a tiny language for a tiny computer. It uses stack semantics.
