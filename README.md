@@ -1,3 +1,3 @@
-# six
+# Pushpop
 
-Pushpop is a tiny language for a tiny computer. It uses stack semantics.
+Pushpop is a minimal stack language for embedded computers.
